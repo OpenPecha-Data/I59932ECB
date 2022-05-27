@@ -1,0 +1,19 @@
+id: ec37337b01054ff4993e2828579240af
+annotation_type: index
+revision: '00001'
+annotations:
+  f20db6915d4940c2b32242f7fa2b48cf:
+    base: f4263.txt
+    span:
+      start: 0
+      end: 8
+  4912c559f5fa4d55b7d328045826934a:
+    base: f43E3.txt
+    span:
+      start: 0
+      end: 11
+  f364846f21ba492b92172b09e6ecbc09:
+    base: fC4FC.txt
+    span:
+      start: 0
+      end: 1648
